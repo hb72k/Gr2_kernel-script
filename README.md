@@ -6,13 +6,13 @@ Gr2.sh
 Inicio
 ---------------
 
-Descargar el ccodigo del source
+Descargar el codigo del source
 
-  git clone https://github.com/Gr2007/android_kernel_huawei_msm8916.git
+	git clone https://github.com/Gr2007/android_kernel_huawei_msm8916.git
 
 Descargar Linario
 
-  git clone https://github.com/Christopher83/arm-cortex_a7-linux-gnueabihf-linaro_4.9.git
+	git clone https://github.com/Christopher83/arm-cortex_a7-linux-gnueabihf-linaro_4.9.git
 
 -------------
  
@@ -29,5 +29,5 @@ Dar permisos al archivo
 
 Iniciarlo
 
-  ./Gr2.sh
+	./Gr2.sh
     
