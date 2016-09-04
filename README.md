@@ -8,7 +8,9 @@ Inicio
 
 Descargar el codigo del source
 
-	git clone https://github.com/Gr2007/android_kernel_huawei_msm8916.git
+	git clone https://github.com/Gr2007/android_kernel_huawei_msm8916.git -b cm-12.1
+
+_Renombrar la carpeta a msm9816_
 
 Descargar Linario
 
@@ -31,3 +33,4 @@ Iniciarlo
 
 	./Gr2.sh
     
+_se puede ajustar el archivo editando el source y la carpeta donde se ubica_
