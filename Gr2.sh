@@ -14,8 +14,6 @@ echo "***Verificando Linario...***"
 LIN=~/arm-cortex_a7-linux-gnueabihf-linaro_4.9
 if [ ! -d "$LIN" ]; then
 git clone https://github.com/Christopher83/arm-cortex_a7-linux-gnueabihf-linaro_4.9.git
-fi
-else 
 echo "***Se usará Linario existente***"
 fi
 
